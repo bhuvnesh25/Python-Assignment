@@ -1,0 +1,13 @@
+# Assignment-1 git command.
+ 
+ 1.  git config --global user.name "user name"
+ 2.  git config --global user.email "your email"
+ 3.  git init (to initialize)
+ 4.  git add . (selectively approch)
+ 5.  git add file name (individual approch)
+ 6.  git commit (to create version)
+ 7.  git commit -m "message"
+ 8.  git status (to check modification in existing file)
+ 9.  git log (to check previous commits)
+ 10. git remote add origin " repoistary link "
+ 11. git push origin master  (to push on cloud )
