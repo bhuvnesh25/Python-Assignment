@@ -42,8 +42,8 @@ play.mainloop()
 # Q4. Write a python program using tkinter interface to take an input in the GUI program and print it.
 
 def function():
-    print(en1.get())
-    print(en2.get())
+    print(en1.get(),en2.get())
+
 take = Tk()
 label_1=Label(take,text="First Name:")
 label_1.grid(row=0)
@@ -53,8 +53,8 @@ en1=Entry(take)
 en1.grid(row=0,column=1)
 en2=Entry(take)
 en2.grid(row=1,column=1)
-b1=Button(take,text="Save",command=function)
+b1=Button(take,text="Save",command=function,width=15)
 b1.grid(row=0,column=2)
-b2=Button(take,text="Quit",command=exit)
+b2=Button(take,text="Quit",command=exit,width=15)
 b2.grid(row=1,column=2)
 take.mainloop()
