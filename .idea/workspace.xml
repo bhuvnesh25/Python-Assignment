@@ -178,10 +178,10 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
+      <item itemvalue="Jupyter Notebook.Bhuvnesh python" />
       <item itemvalue="Python.assignment-17" />
       <item itemvalue="Python.lecture-18" />
       <item itemvalue="Python.assignment-18" />
-      <item itemvalue="Jupyter Notebook.Bhuvnesh python" />
     </list>
     <recent_temporary>
       <list>
@@ -234,7 +234,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/assignment-18.py</url>
+          <url />
           <line>1</line>
         </line-breakpoint>
       </breakpoints>
